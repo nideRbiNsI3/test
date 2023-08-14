@@ -1,8 +1,7 @@
-Versiyon: Uygulama versiyonu: 3.0
-Site: > YKupon.net
-Telegram: Telegram Destek: t.me/YKuponnet
-Discord: Discord Destek: discord.gg/YKupon
-SürümEkBilgi: >Bu sürümde sadece hesaba tanımlı kuponları kullanabilirsiniz!
-
-
-url: https://ykupon.net/
+print("> Uygulama versiyonu: 3.0")
+print("> YKupon.net")
+print()
+print("Telegram Destek: t.me/YKuponnet")
+print("Discord Destek: discord.gg/YKupon")
+print()
+print("> Bu sürümde sadece hesaba tanımlı kuponları kullanabilirsiniz!")
