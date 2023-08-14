@@ -1,7 +1,7 @@
-print("> Uygulama versiyonu: 3.0")
-print("> YKupon.net")
-print()
-print("Telegram Destek: t.me/YKuponnet")
-print("Discord Destek: discord.gg/YKupon")
-print()
-print("> Bu sürümde sadece hesaba tanımlı kuponları kullanabilirsiniz!")
+> Uygulama versiyonu: 3.0
+> YKupon.net
+
+Telegram Destek: t.me/YKuponnet
+Discord Destek: discord.gg/YKupon
+
+Bu sürümde sadece hesaba tanımlı kuponları kullanabilirsiniz!
